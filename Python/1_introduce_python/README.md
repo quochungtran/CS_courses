@@ -115,3 +115,7 @@ Jupyter Notebook is an interactive environment to write and run Python code.
 ---
 
 Congratulations! You are now ready to start your journey into Python programming. 🎉
+
+### Reference
+
+https://www.geeksforgeeks.org/comparison-of-python-with-other-programming-languages/ 
