@@ -1,1 +1,1 @@
-# CS_courses
+# Computer science crash course
