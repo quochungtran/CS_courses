@@ -46,9 +46,12 @@ By understanding these topics, you will have the groundwork to explore more adva
 # Python Syntax
 
 ## Case Sensitivity
-Python is a **case-sensitive** language:
-- Variables named `age` and `Age` are considered two different variables.
-- Function names and keywords must be used in the correct case (e.g., `print` must always be lowercase).
+Python is a **case-sensitive** language, meaning it treats uppercase and lowercase letters as distinct characters. As a result:
+- Variable names such as `myVar` and `myvar` would be considered two completely different variables.
+- Function names also must match exactly when called. For example, if you define a function def `greet(): ...`, calling it as `Greet()` (with an uppercase "G") will result in an error because Python does not recognize it as the same function.
+- Keywords in Python are always lowercase `(e.g., if, for, while)`, so you must not alter their case when using them.
+
+This is different from languages that are not case-sensitive, where Var, vAr, and var might all refer to the same name. In Python, remember to use the exact letter cases for variables, functions, and keywords, or you might encounter unexpected `NameErrors` and other issues.
 
 **Example**:
 ```python
