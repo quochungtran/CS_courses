@@ -165,7 +165,7 @@ Real Python — Tutorials, articles, and resources for all levels.
 1) Create a file naming `pratice.py` to calculate the sum, extraction of 2 numbers
       - 3.2121 + 5.24424
       - 8 + 9
-   Print excitly in terminal the message : "Sum of 2 number 3.2121 and  5.24424 is ... "
+   Print excitly in terminal the message example : "Sum of 2 number 3.2121 and  5.24424 is ... "
 
 2) Consider/practice https://www.w3schools.com/python/python_datatypes.asp 
 (Python Home -> Python Operators)
